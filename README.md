@@ -1,2 +1,2 @@
-# sestanima
-ses tanıma işlemi
+# haşmet
+haşmet
