@@ -1,0 +1,2 @@
+# sestanima
+ses tanıma işlemi
